@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil7359/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
