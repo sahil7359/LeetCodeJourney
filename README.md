@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/sahil7359/LeetCodeJourney/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sahil7359/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil7359/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/sahil7359/LeetCodeJourney/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sahil7359/LeetCodeJourney/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
