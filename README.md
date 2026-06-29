@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sahil7359/LeetCodeJourney/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sahil7359/LeetCodeJourney/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/sahil7359/LeetCodeJourney/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0283-move-zeroes) |
 ## Math
