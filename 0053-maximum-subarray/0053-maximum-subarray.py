@@ -4,10 +4,24 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        dp = [0]*len(nums)
-
-        dp[0]=nums[0]
-        for i in range(1, len(nums)):
-            dp[i]=max(nums[i],dp[i-1]+nums[i])
-
-        return max(dp)
+        maxi = float('-inf') 
+        
+        # current sum of subarray
+        sum = 0 
+        
+        # Iterate through the array
+        for i in range(len(nums)):
+            
+            # Add current element to the sum
+            sum += nums[i] 
+            
+            # Update maxi if current sum is greater
+            if sum > maxi:
+                maxi = sum 
+            
+            # Reset sum to 0 if it becomes negative
+            if sum < 0:
+                sum = 0 
+        
+        # Return the maximum subarray sum found
+        return maxi
