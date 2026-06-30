@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sahil7359/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sahil7359/LeetCodeJourney/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil7359/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sahil7359/LeetCodeJourney/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahil7359/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sahil7359/LeetCodeJourney/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil7359/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
