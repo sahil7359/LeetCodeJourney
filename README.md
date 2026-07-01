@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/sahil7359/LeetCodeJourney/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sahil7359/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahil7359/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sahil7359/LeetCodeJourney/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sahil7359/LeetCodeJourney/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sahil7359/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sahil7359/LeetCodeJourney/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
